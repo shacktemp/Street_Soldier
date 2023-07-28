@@ -22,7 +22,6 @@ Find the project notebook above, street_soldier.ipynb, and run it in Google Cola
 
 ![image](https://github.com/shacktemp/Street_Soldier/assets/122495946/f3ca77ad-a828-47fa-863f-120af9519e24)
 
-Before pivot to use some rows as columns.
 
 ## Interpretation
 
