@@ -6,14 +6,14 @@ The objective of this project is to explore the relationship between veterans re
 
 
 ## Accessing the Program and Packages Needed be Installed
-Find the the project notebook above, street_soldier.ipynb, and run it in Google Colab. The program uses pandas and matplotlib to perform an analysis of the two mentioned data sets. It will read in, clean, and rearrange the data as needed using python commands and pandas. It will execute data visualization using matplotlib.			
+Find the project notebook above, street_soldier.ipynb, and run it in Google Colab. The program uses pandas and matplotlib to perform an analysis of the two mentioned data sets. It will read in, clean, and rearrange the data as needed using python commands and pandas. It will execute data visualization using matplotlib.		
 
 ## Features
-1. Read in two CSVs
-2. Clean data and perform a pandas merge.  Calculate the ratio of total homelessness as compared to the VA benefit recipients for a given county.
-3.  Use matplotlib to make 3 charts.  A pie chart to show the relationship of veterans by their claim status. A bar chart to compare homelessness in different counties. A scatterplot to display whatever overlap between homelessness and VA benefit recipients exist.  
-4. Built a data dictionary that list variables and their parameters used. It is included in at the bottom of this README file.
-5. Interpretation is inculde in this README file.
+1.	Read in two CSVs
+2.	Clean data and perform a pandas merge. Calculate the ratio of total homelessness as compared to the VA benefit recipients for a given county.
+3.	Use matplotlib to make 3 charts. A pie chart to show the relationship of veterans by their claim status. A bar chart to compare homelessness in different counties. A scatterplot to display whatever overlap between homelessness and VA benefit recipients exist.
+4.	Built a data dictionary that list variables and their parameters used. It is included in at the bottom of this README file.
+5.	Interpretation is included in this README file.
 
 ## Data Dictionary
 
@@ -21,5 +21,4 @@ Find the the project notebook above, street_soldier.ipynb, and run it in Google 
 
 ## Interpretation
 
-The coorelation between the number homelessness and VA benefit recipients for a given state appears to not have a strong association base on the analysis. A factor that could increase the thoroughness of this project would have been able to look at detailed homelessness data for counties. That would have allowed to better assess counties that do not have a lot of military and obviously not give a good reading for doing an comparison to homelessness populations.
-
+The correlation between the number homelessness and VA benefit recipients for a given state appears to not have a strong association base on the analysis. A factor that could increase the thoroughness of this project would have been able to look at detailed homelessness data for counties. That would have allowed to better assess counties that do not have a lot of military and obviously not give a good reading for doing a comparison to homelessness populations.
