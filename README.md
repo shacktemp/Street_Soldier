@@ -25,4 +25,4 @@ Find the project notebook above, street_soldier.ipynb, and run it in Google Cola
 
 ## Interpretation
 
-The correlation between the number homelessness and VA benefit recipients for a given state appears to not have a strong association base on the analysis. A factor that could increase the thoroughness of this project would have been able to look at detailed homelessness data for counties. That would have allowed to better assess counties that do not have a lot of military and obviously not give a good reading for doing a comparison to homelessness populations.
+The correlation between the number homelessness and VA benefit recipients for a given state appears to not have a strong association based on the analysis. A factor that could increase the thoroughness of this project would have been able to look at detailed homelessness data for counties. That would have allowed to better assess counties that do not have a lot of military and obviously not give a good reading for doing a comparison to homelessness populations. Also, the homeless CSV did not have data for Alabama or US territories.
