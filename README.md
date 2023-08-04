@@ -10,8 +10,8 @@ Find the project notebook above, street_soldier.ipynb, and run it in Google Cola
 
 ## Features
 1.	Read in two CSVs
-2.	Clean data and perform a pandas merge. Calculate the ratio of total homelessness as compared to the VA benefit recipients for a given county.
-3.	Use matplotlib to make 3 charts. A pie chart to show the relationship of veterans by their claim status. A bar chart to compare homelessness in different counties. A scatterplot to display whatever overlap between homelessness and VA benefit recipients exist.
+2.	Clean data and perform a pandas merge. Calculate the ratio of total homelessness as compared to the VA benefit recipients for a given state.
+3.	Use matplotlib to make 3 charts. A pie chart to show the relationship of veterans by their claim status. A bar chart to compare homelessness in different states. A scatterplot to display whatever overlap between homelessness and VA benefit recipients exist.
 4.	Built a data dictionary that list variables and their parameters used. It is included in at the bottom of this README file.
 5.	Interpretation is included in this README file.
 
